@@ -14,14 +14,14 @@ NextPal 是一个基于 STM32F103 的四足机器人控制项目，集成 FreeRT
 
 点击页面右上角的 **`code`** 按钮，再点击 **`Download ZIP`** 即可下载整个项目；也可以 **Fork** 到自己仓库后再编辑。
 
-![点击 code 后选择 Download ZIP](docs/images/step1-download.jpg)
+![点击 code 后选择 Download ZIP](https://jacakebum.github.io/NextPalCode/images/step1-download.png)
 
 ### 方式二：GitHub 加载不出来时
 
 如果网页打不开或下载慢，安装 **WattToolkit** 加速器（免费好用），或者使用梯子 / VPN（收费）。
 
-![WattToolkit 加速器](docs/images/step2-accelerator.png)
+![WattToolkit 加速器](https://jacakebum.github.io/NextPalCode/images/step2-accelerator.png)
 
 打开 Watt Toolkit，进入「**网络加速**」，勾选 **GitHub**，再点击「**一键加速**」即可：
 
-![在网络加速中勾选 GitHub 并一键加速](docs/images/step3-install.jpg)
+![在网络加速中勾选 GitHub 并一键加速](https://jacakebum.github.io/NextPalCode/images/step3-install.jpg)
