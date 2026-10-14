@@ -1,0 +1,64 @@
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.crt
+*.p12
+
+# Keil / MDK build outputs
+MDK-ARM/Quadruped_Robot/
+MDK-ARM/Listings/
+MDK-ARM/Objects/
+*.o
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.lnp
+*.dep
+*.sct.Bak
+*.build_log.htm
+
+# Keil user-local UI/session files
+*.uvguix.*
+*.uvgui.*
+*.uvoptx.bak
+*.dbgconf
+ExtDll.iex
+
+# STM32CubeIDE / Eclipse generated state
+.metadata/
+.settings/
+Debug/
+Release/
+build/
+*.launch
+
+# Python caches and virtual environments
+__pycache__/
+*.py[cod]
+.python-version
+.venv/
+venv/
+env/
+
+# Editor and OS noise
+.vscode/
+.idea/
+.vs/
+*.swp
+*.swo
+*.tmp
+*.temp
+*.bak
+*.log
+Thumbs.db
+Desktop.ini
+.DS_Store
