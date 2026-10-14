@@ -50,6 +50,7 @@ venv/
 env/
 
 # Editor and OS noise
+.workbuddy/
 .vscode/
 .idea/
 .vs/
